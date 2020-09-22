@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.358c5e51.chunk.css",
+    "main.js": "/static/js/main.98a5c6cb.chunk.js",
+    "main.js.map": "/static/js/main.98a5c6cb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.83c3e0c4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.83c3e0c4.js.map",
+    "static/js/2.884874eb.chunk.js": "/static/js/2.884874eb.chunk.js",
+    "static/js/2.884874eb.chunk.js.map": "/static/js/2.884874eb.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.fcd92c0f117626f81ba60203c9466c09.js": "/precache-manifest.fcd92c0f117626f81ba60203c9466c09.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.358c5e51.chunk.css.map": "/static/css/main.358c5e51.chunk.css.map",
+    "static/js/2.884874eb.chunk.js.LICENSE.txt": "/static/js/2.884874eb.chunk.js.LICENSE.txt",
+    "static/media/1.png": "/static/media/1.bf0ce9ae.png",
+    "static/media/2.png": "/static/media/2.0d1e50bc.png",
+    "static/media/3.png": "/static/media/3.7a816f2e.png",
+    "static/media/App.css": "/static/media/Rectangle.d2db19f4.jpg",
+    "static/media/Sajek.png": "/static/media/Sajek.73223770.png",
+    "static/media/Sreemongol.png": "/static/media/Sreemongol.1cff006a.png",
+    "static/media/sundorbon.png": "/static/media/sundorbon.015d2c10.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83c3e0c4.js",
+    "static/js/2.884874eb.chunk.js",
+    "static/css/main.358c5e51.chunk.css",
+    "static/js/main.98a5c6cb.chunk.js"
+  ]
+}
